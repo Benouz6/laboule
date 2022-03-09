@@ -1,0 +1,39 @@
+/* Colors */
+:root {
+  --red: rgb(198,45,51);
+  --white: #ffffff;
+  --black: #000;
+}
+
+
+
+
+body {
+  margin: 0 auto;
+  background-color: rgb(220, 220, 220);
+}
+
+.white-box {
+  width: 100%;
+  background-color: white;
+}
+
+.header {
+  background-image: url("images/Equipepre.jpg");
+  background-size: cover;
+  height: auto;
+  text-align: center;
+  padding: 24px 0 450px 0;
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+}
+
+/* .header a {
+  background-color: var(--red);
+  padding: 12px 24px;
+  text-decoration: none;
+  color: var(--white);
+} */
